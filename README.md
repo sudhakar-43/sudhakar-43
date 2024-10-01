@@ -5,8 +5,3 @@
 - 📫 How to reach me ... sudhakarbabu595@gmail.com
 - 😄 Pronouns: ...he/Mr
 - ⚡ Fun fact: ...I love solving complex coding problems and enjoy learning new technologies!
-
-<!---
-sudhakar-43/sudhakar-43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

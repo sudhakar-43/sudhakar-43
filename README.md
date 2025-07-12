@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @sudhakar-43<br>- 👀 I’m interested in ...coding, especially in areas like AI and chatbot development.<br>- 🌱 I’m currently learning ... various programming languages and tools, including Python, JavaScript, and GitHub management.<br>- 💞️ I’m looking to collaborate on ...open-source projects, AI development, and web development.<br>- 📫 How to reach me ... sudhakarbabu595@gmail.com<br>- 😄 Pronouns: ...he/Mr<br>- ⚡ Fun fact: ...I love solving complex coding problems and enjoy learning new technologies!<br>
+- 👋 Hi, I’m Sudhakar <br>- 👀 I’m interested in ...coding, especially in areas like AI and chatbot development.<br>- 🌱 I’m currently learning ... various programming languages and tools, including Python, JavaScript, and GitHub management.<br>- 💞️ I’m looking to collaborate on ...open-source projects, AI development, and web development.<br>- 📫 How to reach me ... sudhakarbabu595@gmail.com<br>- 😄 Pronouns: ...he/Mr<br>- ⚡ Fun fact: ...I love solving complex coding problems and enjoy learning new technologies!<br>
 
 
 ## 🌐 Socials:
